@@ -1,0 +1,44 @@
+.nav-logo {
+    width: 100%;
+    max-width: 40px;
+    margin: 11px 0 11px 15px;
+    padding-bottom: 20px;
+    height: auto;
+}
+
+.nav-wrapper {
+    background-color: #232428 !important;
+}
+
+.tooltip_template {
+    display: none;
+}
+td{
+    padding: 20px;
+}
+
+.svg-body {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    flex-direction: column;
+    background-color: #F9F9F9 !important;
+}
+nav{
+    margin-top: 30px;
+}
+.face{
+    background-color: #2440fc;
+    color: white;
+    padding: 1em 1.5em;
+    text-decoration: none;
+}
+.face:hover {
+  background-color: grey;
+}
+
+.equipements img{
+    height: 300px;
+    max-height: 300px;
+    width: auto;
+}
